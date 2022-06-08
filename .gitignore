@@ -130,3 +130,11 @@ dmypy.json
 
 # DS_Store
 .DS_Store
+
+# Ignore Lesson Files
+config.py
+API_Practive.ipynb
+Google_Nearby_Search.ipynb
+random_numbers.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
